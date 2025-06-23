@@ -14,8 +14,8 @@ A Python tool that generates password hashes using multiple cryptographic algori
 
 | Algorithm | Description | Security Level |
 |-----------|-------------|----------------|
-| MD5 | Fast but cryptographically weak | ⚠ Not recommended |
-| SHA1 | Fast but cryptographically weak | ⚠ Not recommended |
+| MD5 | Fast but cryptographically weak | Not recommended |
+| SHA1 | Fast but cryptographically weak | Not recommended |
 | SHA256 | Strong cryptographic hash | Good |
 | SHA512 | Strong cryptographic hash | Good |
 | BLAKE2b | Modern, fast, and secure | Excellent |
@@ -29,7 +29,7 @@ A Python tool that generates password hashes using multiple cryptographic algori
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/password-hash-generator.git
+git clone https://github.com/s-a-c-h-i-n/password-hash-generator.git
 cd password-hash-generator
 ```
 
@@ -117,10 +117,6 @@ cryptography>=3.0.0
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Disclaimer
 
