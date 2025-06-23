@@ -29,7 +29,7 @@ A Python tool that generates password hashes using multiple cryptographic algori
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/s-a-c-h-i-n/password-hash-generator.git
+git clone https://github.com/s-a-c-h-in/password-hash-generator.git
 cd password-hash-generator
 ```
 
